@@ -1,0 +1,53 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		AbraarSyed
+tagline:	'stay hungry!stay foolish!'
+description:	'My Blog Page'
+url:		http://abraarsyed.github.io
+commentsystem:	disqus
+
+author:
+  name:		'AbraarSyed'
+  url:		https://google.com/+AbraarSyed
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon3.gif
+cover:		/assets/images/cover4.jpg
+
+social:
+  - icon:	facebook
+    url:	https://www.facebook.com/abraar.syed.01
+    desc:	Follow me on facebook
+
+  - icon:	github
+    url:	https://github.com/abraarsyed
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+AbraarSyed
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://abraarsyed.github.io/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about.html
+    
+copyright:
+  author:	AbraarSyed
+  url:		http://abraarsyed.github.io
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5

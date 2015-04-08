@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>AbraarSyed</title>
+ <link href="http://abraarsyed.github.io/atom.xml" rel="self"/>
+ <link href="http://abraarsyed.github.io/"/>
+ <updated>2015-04-09T04:52:19+05:30</updated>
+ <id>http://abraarsyed.github.io</id>
+ <author>
+   <name>AbraarSyed</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Firefox OS for everyone</title>
+   <link href="http://abraarsyed.github.io/blog/Firefox-OS-for-everyone"/>
+   <updated>2015-03-29T00:00:00+05:30</updated>
+   <id>http://abraarsyed.github.io/blog/Firefox-OS-for-everyone</id>
+   <content type="html">&lt;h1 id=&quot;firefox-os-for-everyone&quot;&gt;FIREFOX OS FOR EVERYONE&lt;/h1&gt;
+
+&lt;p&gt;We live in the era of web 2.0 and in no time we are moving to web 3.0 and the Internet of things.
+we have come a long from using plain static web pages to interactive,dynamic and intelligent web services.
+we have also evolved ourselves from being just web users to web creators and hackers. 
+Its easy to see how web will be revolutionised and holds a definite place in our future.&lt;/p&gt;
+
+&lt;p&gt;The internet is a very succesful product. As of 2014, the number of internet users worldwide was 2.92 billion and it is ever increasing but there is an interesting difference between then and now.
+Here is the chart showing the sales of PCS in red and Smartphones in blue. This analysis is 3-4 years old and the demand for smartphones is still on the rise.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-03-29-Firefox-OS-for-everyone/image1.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-03-29-Firefox-OS-for-everyone/image1.png&quot; alt=&quot;The graph Analysis&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The graph Analysis&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;It is eveident from the graph that the number of smartphones sold in the past few years is greater than the number of PCS that were sold. This implies PCS are by de facto the thing of the past.
+So, in the next few years over 3 billion people are going to discover the web through their smartphones. Smartphones, of which there is limited number of choices in their applications.
+Most of the smartphones promote the pay to participate idealogy which means you consume only what you paid for. There is no creativity, no hacking and hence no room for development from the user’s side.&lt;/p&gt;
+
+&lt;p&gt;This raises the question : &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“How do we bring the values of the web to  the smartphones?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This question is important because we want to empower people to have the freedom to participate, create and develop or motify existing applications to suit their needs rather than abiding by the standard features given to them.&lt;/p&gt;
+
+&lt;p&gt;Mozilla community came up with a solution to this problem, The FIREFOX OS .
+Firefox OS is the new mobile operating system developed by Mozilla, based on Linux and Firefox’s powerful Gecko rendering engine.&lt;/p&gt;
+
+&lt;p&gt;Firefox OS is open source and therefore free from proprietary technology, while still providing the power to allow application developers to create excellent products. In addition, it’s flexible and capable enough to make the end user happy.&lt;/p&gt;
+
+&lt;p&gt;For Web developers, the most important part to understand is that the entire user interface is a web app capable of displaying and launching other Web apps. Any modifications you make to the user interface and any applications you create to run on Firefox OS are web apps created using HTML, CSS, and JavaScript, albeit with enhanced access to the mobile device’s hardware and services.&lt;/p&gt;
+
+&lt;p&gt;From a product perspective, Firefox OS is Mozilla’s (and their OEM partners’) branding and support services applied on top of Boot to Gecko (B2G), which is the operating system’s engineering codename. Boot to Gecko is developed by a team of engineers inside Mozilla plus many external contributors from the wider Mozilla/open source community. &lt;/p&gt;
+
+&lt;p&gt;Some of the other unique features of firefox os :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Web is the platform” is the central theme of Firefox OS.&lt;/li&gt;
+  &lt;li&gt;All three layers of Firefox OS are completely open source. Also, Firefox OS can be upgraded in parts.&lt;/li&gt;
+  &lt;li&gt;There is no SDK (Software Development Kit) to download and install. Instead, all the OS developmental branches are maintained as GitHub   projects and are open to public. &lt;/li&gt;
+  &lt;li&gt;Dynamic app search and single use applications.&lt;/li&gt;
+  &lt;li&gt;“Do not track”  - Respects privacy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But why would any of these be relevant to a completely non technical user ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Usually only these matter -
+- Smartphone = Touchscreen + Camera + Apps
+- Affordability = Cheap + Good quality
+- Support&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Firefox OS provides it all. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Firefox OS provides all the standard features using latest web technologies. This also makes it light-weight thereby reducing the hardware cost.&lt;/li&gt;
+  &lt;li&gt;The entire software is avalaible for “Free”. The phone makers spend less money in production. So the retail cost is low.&lt;/li&gt;
+  &lt;li&gt;“Free” as in phone makers dont have to pay to use it. Plus they can make any change they want.&lt;/li&gt;
+  &lt;li&gt;It is built by Mozilla, a non profit organisation with thousands of developers around the world.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Firefox OS is also being used to make TVs , watches, small gadgets, car dashboards and so much more. It will change the way we use the web. This is just the beginning…&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-03-29-Firefox-OS-for-everyone/image2.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-03-29-Firefox-OS-for-everyone/image2.png&quot; alt=&quot;Firefox OS for everyone&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Firefox OS for everyone&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;references-&quot;&gt;References :&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ted Talk on Firefox OS.&lt;/li&gt;
+  &lt;li&gt;Blogpost on firefox OS by Kaustav Das Modak.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CMRIT - Mozilla Webmaker Contest</title>
+   <link href="http://abraarsyed.github.io/blog/CMRIT-Webmaker-Contest"/>
+   <updated>2015-02-23T00:00:00+05:30</updated>
+   <id>http://abraarsyed.github.io/blog/CMRIT-Webmaker-Contest</id>
+   <content type="html">&lt;h1 id=&quot;teach-the-web&quot;&gt;Teach the WEB!!!&lt;/h1&gt;
+
+&lt;h3 id=&quot;how-it-all-started&quot;&gt;How it all started&lt;/h3&gt;
+
+&lt;p&gt;We had a Student council meeting immediately after the last exam of the fifth semester on december 31,2014. That was the day when it all started. We had to plan out everything for our forth coming annual college fest - &lt;a href=&quot;http://www.cultura15.com&quot;&gt;CULTURA’15&lt;/a&gt; and hence the meeting. I saw this as an oppurtunity to do something as a FSA. I decided to conduct a web design contest for Cultura’15 but this contest had a twist.&lt;/p&gt;
+
+&lt;p&gt;Unlike the other web designing contest, wherein only the experienced web makers get to participate,this contest was designed for anyone and everyone. It was possible this way with the help of Mozilla Webmaker tools which intends on making the web users - &lt;strong&gt;The creators and makers of web&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Initially I approached &lt;a href=&quot;https://reps.mozilla.org/u/galaxyk/&quot;&gt;Galaxy Kadiyala&lt;/a&gt; with this idea. Usually Webmaker Parties are not conducted as Contest, so I felt it might not be accepted but to my surprise I got a very supportive response from him. He also looped in a lot of people who helped me out to plan and execute the event successfully.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to &lt;a href=&quot;https://reps.mozilla.org/u/priynag/&quot;&gt;Priyanka Nag&lt;/a&gt; for guiding me during the important decision making process and also helping me get the budget request accepted for the event.&lt;/p&gt;
+
+&lt;p&gt;Also I would like to thank Our judges for the event - &lt;a href=&quot;https://mozillians.org/en-US/u/abhi12ravi/&quot;&gt;Abhiram Ravikumar&lt;/a&gt; &lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image01.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image01.jpg&quot; alt=&quot;Thank You Abhiram&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Thank You Abhiram&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;and &lt;a href=&quot;https://mozillians.org/en-US/u/pmjcreations/&quot;&gt;Jafar Muhammed&lt;/a&gt;&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image02.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image02.jpg&quot; alt=&quot;Thank You Jafar&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Thank You Jafar&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;A lot of discussions,plannings and set-up arrangements took place for the next 2 months and it was during this time that I attended the FSA bootcamp which added on to my ability to plan and organise things better.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image03.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image03.jpg&quot; alt=&quot;The Event Poster&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The Event Poster&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image04.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image04.jpg&quot; alt=&quot;The Event Swags&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The Event Swags&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;the-webmaker-contest&quot;&gt;The Webmaker Contest&lt;/h3&gt;
+
+&lt;p&gt;It was an Inter-college event with 45+ number of participants.
+Since we wanted everyone to participate and compete,irrespective of their coding skills, we started the event by taking session on the webmaker tools. The session was taken by the judges itself. We could see a lot of excitement among the students.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image05.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image05.jpg&quot; alt=&quot;Teaching the Web&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Teaching the Web&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;After the session, the participants were taken to two labs and then the contest began. We had two theme based rounds in the contest. The participants were free to use any or all webmaker tools for both the rounds. &lt;/p&gt;
+
+&lt;p&gt;The first round had the following theme : &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ICC Cricket World Cup 2015 or Your favorite TV Show. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The second round had the following theme : &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ISRO’s Mars Orbiter Mission.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image06.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image06.jpg&quot; alt=&quot;Its Hands-on time&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Its Hands-on time&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;Despite testing the labs, we faced a small problem with the bandwidth but nevertheless the participants were already ignited enough to win the contest and it was definitely not an easy task to judge such an event.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image07.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image07.jpg&quot; alt=&quot;Judges on rounds, making their final verdict&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Judges on rounds, making their final verdict&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;Finally we had one winner of the contest-Tanmoy Paul and a lot of other participants taking back lot of cool swags.
+You can find links to all the makes on this &lt;a href=&quot;https://etherpad.mozilla.org/mozilla-presence-cultura15&quot;&gt;Etherpad&lt;/a&gt;&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image08.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image08.jpg&quot; alt=&quot;The winner, Tanmoy Paul&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The winner, Tanmoy Paul&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image09.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image09.jpg&quot; alt=&quot;Participant winning a Mozilla t-shirt&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Participant winning a Mozilla t-shirt&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image10.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image10.jpg&quot; alt=&quot;Participant winning a Mozilla t-shirt&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Participant winning a Mozilla t-shirt&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;p&gt;I felt this was one of the best events that I had organised till date. It was not just about winning the contest, we assured everyone became a Webmaker which itself was a &lt;strong&gt;win-win&lt;/strong&gt; situation for everyone. Also this persuaded the &lt;strong&gt;CMRTIANS&lt;/strong&gt; to become &lt;strong&gt;MOZILLIANS&lt;/strong&gt; and we have a very good number of FSAs in our college now. Also, We are starting a Mozilla club which will be called &lt;strong&gt;MOZIETY&lt;/strong&gt; (MOZILLA + ANXIETY).
+Last but not the least, &lt;/p&gt;
+
+&lt;p&gt;YES , and thats how I finally got my first Mozilla T-shirt.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image12.jpg&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2015-02-23-CMRIT-Webmaker-Contest/image12.jpg&quot; alt=&quot;I love MOZILLA&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;I love MOZILLA&lt;/blockquote&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Git and Github!</title>
+   <link href="http://abraarsyed.github.io/blog/GIT-AND-GITHUB"/>
+   <updated>2014-08-16T00:00:00+05:30</updated>
+   <id>http://abraarsyed.github.io/blog/GIT-AND-GITHUB</id>
+   <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h1&gt;
+
+&lt;h2 id=&quot;why-git&quot;&gt;WHY GIT?&lt;/h2&gt;
+
+&lt;p&gt;I was at gym when this thought struck my mind - “What if our whole life was version controlled!!”&lt;/p&gt;
+
+&lt;p&gt;If so I will have to gym only once in my whole lifetime to get the desired shapes and brilliant physique.So when I want to look build up, I can switch to my “WWE champion” look and when I feel too heavy I can get back to my “lean MJ” look.This would have been so easier.&lt;/p&gt;
+
+&lt;p&gt;Even for girls,They dont have to waste their time doing the same makeup everytime they wanna go outing,they can just switch between their versions whenever required.Just imagine how much time and energy would have been saved.
+But unfortunately,we cannot do so!!&lt;/p&gt;
+
+&lt;p&gt;Nevertheless,we still have the power to version control our documents and source codes in the tech world.&lt;/p&gt;
+
+&lt;p&gt;Now,the question is how?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;hmmmm..hmmmmm….thinking …… :P&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Simple answer:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;GIT-version controller&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;what-is-git-and-github&quot;&gt;WHAT IS GIT AND GITHUB?&lt;/h2&gt;
+
+&lt;h3 id=&quot;git&quot;&gt;Git&lt;/h3&gt;
+
+&lt;p&gt;It is a distributed version controller which maintains,stores and tracks all the different versions of the documents and codes that are created by a user in the given course of time.It is with the help of git that the user can easily switch between the different versions.&lt;/p&gt;
+
+&lt;h3 id=&quot;github&quot;&gt;Github&lt;/h3&gt;
+
+&lt;p&gt;It is a web based hosting service which provides us a web based graphical user interface to store and share documents and source codes between one another, irrespective of our location around the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-it&quot;&gt;HOW TO USE IT?&lt;/h2&gt;
+&lt;p&gt;In order to use git,we need to first install it.
+This can be done in a single step,just open the terminal and type the following command:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;apt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;git&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;getting-started&quot;&gt;GETTING STARTED!!&lt;/h1&gt;
+
+&lt;p&gt;so now that you have git installed, let us see some of the basic commands used in git. It goes as follows:&lt;/p&gt;
+
+&lt;h3 id=&quot;git-init&quot;&gt;git init&lt;/h3&gt;
+
+&lt;p&gt;Imagine you are going to write a novel. So you will have to buy a new book - “X” and maintain it as your novel wherein you pen down all your thoughts.So whenever you wanna write something in your novel you will write in this book - “X” and not in any other book because you are maintaining this book - “X” as your novel.
+Using the same logic,when you working on a computer system you need to tell the system which is your git directory so that the system can differentiate it from other directories.This is done using the “git init” command.
+So “git init” basically tells your computer that your present working directory is now initialized as a git repository or a git directory.Hence the word “init” - initialized.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2014-08-16-GIT-AND-GITHUB/image1.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2014-08-16-GIT-AND-GITHUB/image1.png&quot; alt=&quot;The git init command illustrated&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The git init command illustrated&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;git-status&quot;&gt;git status&lt;/h3&gt;
+
+&lt;p&gt;I am sure everyone in today’s world has a presence on one of the social networking website.So taking the example of facebook, we often update our status or in other words, “What’s on your mind ?”
+Similarly,we have a command “git status” to check the current status of your git repository,ie, how many files have been modified,how many files are tracked or untracked,how many files commited etc etc.
+One beautiful advantage of “git status” is that it suggests you the next step which is to be performed and also gives out its syntax.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2014-08-16-GIT-AND-GITHUB/image2.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2014-08-16-GIT-AND-GITHUB/image2.png&quot; alt=&quot;The git status command illustrated&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The git status command illustrated&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;git-config&quot;&gt;git config&lt;/h3&gt;
+
+&lt;p&gt;Git is beautifully structured. Its smart. 
+So when you working with it, it wants to know your identity,ie, your name and email address. So whenever you make a change to a git repository(local/global), it will first ask for your identity and then make the changes. This way you can keep a track of who is changing your documents or codes, who is contributing etc etc. 
+One good advantage is that no one can mess around with your files cause the changes are not accepted without their identity.So git is smart.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now how do you set your identiy??&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Its simple, the syntax goes as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git config –global user.name &lt;name&gt;&lt;/name&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git config –global user.email &lt;email&gt;&lt;/email&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(Here we have used global declaration,we can also use local declaration)&lt;/p&gt;
+
+&lt;h3 id=&quot;git-add-filename&quot;&gt;git add filename&lt;/h3&gt;
+
+&lt;p&gt;So taking the same example we took earlier,ie,example of a novel, assume that you have written down a novel which has three chapters namely chap1,chap2 and chap3. After few days you change the chap1 to chap1.1(say). Again after few days, you change chap1.1 to chap1.2(say).
+ Again after few months you realise your first version of the chapter,ie, chap1 was better than chap1.1 and chap1.2 ,so you replace it back into your novel.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now the question is how does this process work in git.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Simple answer again,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;using the “git add” and “git commit” commands&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So what the “git add” command does is that it adds your mentioned filenames to staging area. In other words, it begins to keep track of those mentioned filenames. So any changes made to those files will be tracked,stored,maintained and even reported by git.&lt;/p&gt;
+
+&lt;p&gt;SYNTAX:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git add filename&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2014-08-16-GIT-AND-GITHUB/image3.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2014-08-16-GIT-AND-GITHUB/image3.png&quot; alt=&quot;The git add command illustrated&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The git add command illustrated&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;git-commit--m-message&quot;&gt;git commit -m “message”&lt;/h3&gt;
+
+&lt;p&gt;We know that the “git add” command stages your files. So taking the same example as above,when you “git add chap1”, it will start tracking and controlling different versions of chap1, but you havent replaced chap1.2 with chap1. This is done using the “git commit” command.
+One more simpler example of git commit could be your shopping kart, when you add and remove different items to and from your kart,its basically like using the “git add” command and when you finalised your decision, you make a bill of the items in your kart which is like using the “git commit” command.&lt;/p&gt;
+
+&lt;p&gt;SYNTAX:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git commit -m “message”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Usually the commits made in git is accompanied by a message.This is done so that the other user, who is reading your document or code or in some cases sharing and contributing to your code, finds it easy to acknowledge what are the changes done by you.&lt;/p&gt;
+
+&lt;div id=&quot;article-img&quot;&gt;&lt;a href=&quot;/media/2014-08-16-GIT-AND-GITHUB/image4.png&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/media/2014-08-16-GIT-AND-GITHUB/image4.png&quot; alt=&quot;The git add command illustrated&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;The git add command illustrated&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;git-push&quot;&gt;git push&lt;/h3&gt;
+
+&lt;p&gt;Now that you have committed the required changes and all things are set. You might want to publish your files for different people to view it, contribute to it etc. So you can publish them on your github account. You will have to create a github account by going to the official website of “&lt;a href=&quot;http://www.github.com&quot;&gt;github&lt;/a&gt;” and then create a repository in your account.
+After that all you have to do is push your files from your system to your github account for other people to access and use it.
+In order to push the files, we use the “git push” command.&lt;/p&gt;
+
+&lt;p&gt;SYNTAX:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git push origin master &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OR simply,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git push&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;origin is the link to the global repository where you will be pushing your files.
+master is the default branch in github.You can have your own branches, if required.&lt;/p&gt;
+
+&lt;h3 id=&quot;git-pull&quot;&gt;git pull&lt;/h3&gt;
+
+&lt;p&gt;Just like “git push” command pushes your files to global repository hosted on github. Similarly “git pull” command will pull down the required files from the required link or repository. &lt;/p&gt;
+
+&lt;p&gt;SYNTAX:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git pull origin master&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OR simply,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git pull&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;more-of-git&quot;&gt;MORE OF GIT&lt;/h3&gt;
+
+&lt;p&gt;There are lot more commands and functionality avaliable to git.Few other commands are :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git clone&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git help&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git diff&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git checkout&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and a lot more!!!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
